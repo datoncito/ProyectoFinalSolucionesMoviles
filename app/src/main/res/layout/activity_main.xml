@@ -69,6 +69,13 @@
                 android:id="@+id/botonTodos"
                 android:layout_gravity="center_horizontal" />
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Actualziar usuario"
+                android:id="@+id/botonActualizar"
+                android:layout_gravity="center_horizontal" />
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
